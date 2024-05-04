@@ -39,7 +39,7 @@ const Header = () => {
 
         <DrawerContent>
           <DrawerCloseButton />
-          <DrawerHeader>VIDEO HUB</DrawerHeader>
+          <DrawerHeader>VIDEOFORYOU</DrawerHeader>
           <DrawerBody>
             <VStack alignItems={'flex-start'}>
               <Button

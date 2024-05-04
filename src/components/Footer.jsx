@@ -48,7 +48,7 @@ const Footer = () => {
           borderRight={['none', '1px solid white']}
         >
           <Heading textTransform={'uppercase'} textAlign={'center'}>
-            VIDEO HUB
+            VIDEOFORYOU
           </Heading>
           <Text>All rights received</Text>
         </VStack>
